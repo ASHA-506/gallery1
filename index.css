@@ -1,0 +1,34 @@
+.row{
+    height: 300px;
+    width: 100%;
+    background-color: white;
+    border: solid 3px white;
+    display: flex;
+    justify-content: space-around;align-items: center;
+     margin-top: 50px;
+    flex-wrap: wrap;
+}
+.col{
+    height: 180px;
+    width:250px;
+    background-color: brown;
+    border: white 3px solid;
+    margin-top: 20px;
+}
+.q{
+    height: 180px;
+    width: 100%;
+    border: solid 3px red;
+    margin-top: 50px;
+}
+img{
+    height: 180px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: yellowgreen;
+}
+a{
+    text-align: center;
+}
